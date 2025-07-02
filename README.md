@@ -1,6 +1,6 @@
 # teste123
-Repositorio para teste
+Repositório para teste
 
 
-#Instruçoes do Projeto
+#Instruções do Projeto
 Teste aqui
